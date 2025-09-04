@@ -1,0 +1,4 @@
+application:
+  name: Client-A
+
+greeting: hello from Client A
