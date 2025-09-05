@@ -1,1 +1,3 @@
 greeting: hello from Client A
+service:
+  name: 'Client A Service Name From Git Config File'
